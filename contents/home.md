@@ -12,4 +12,4 @@ wuqzh7@buaa.edu.cn
 
 **Sun Yat-sen University**, B.S. in Aeronautical and Astronautical Engineering (2018 – 2022)  
 #### Research Interests  
-Reinforcement Learning, Robotic Control, and Swarm Confrontation
+Robotics, Reinforcement learning, Large language model

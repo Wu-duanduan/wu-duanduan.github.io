@@ -1,21 +1,21 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **基于模型预测控制改进的快速强化学习**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
-
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+#### 主要贡献: 
+- 针对强化学习在无人机避障中存在训练效率低的问题，提出了一种基于模型预测控制改进的强化学习方法。 
+- 该方法应用滚动优化方法来最大化每个预测区间的累积回报，提高了无人机在强化学习中的学习效率和样本利用率。  
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
-
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+### **面对突发危险区域的多无人机路径规划**  
 
 #### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+- 随机突发的危险区域会对无人机路径规划造成极大的干扰，多智能体强化学习方法允许无人机根据环境状态及时做出轨迹调整。
+- 提出了一种安全的多智能体强化学习方法，使得无人机能够对突发危险作出预测并进行避障。
+
+---
+
+### **基于分层强化学习的智能体集群对抗**  
+
+#### 主要贡献:  
+- 针对智能体集群对抗中由敌方策略和战场态势造成的高不确定性问题，提出分层强化学习方法将混杂决策空间解耦为两个动态过程：任务分配和路径规划。
+- 在此基础上，基于不确定性量化方法建立分层网络之间的动态机制，并进一步提出包含预训练和交叉训练的融合训练方法。
