@@ -1,20 +1,15 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![Wu-duanduan](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/Wu-duanduan)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+Qizhen Wu received the B.S. degree in aeronautical and astronautical engineering from Sun Yat-sen University, Guangzhou, China, in 2022. He is currently pursuing the Ph.D. degree with the School of Automation Science and Electrical Engineering, Beihang University, Beijing, China. His current research interests include reinforcement learning, robotic control, and swarm confrontation.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+wuqzh7@buaa.edu.cn
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Beihang University**, Ph.D. with the School of Automation Science and Electrical Engineering (2024 – Now)  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**Beihang University**, Master with the School of Automation Science and Electrical Engineering (2022 – 2024)  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
+**Sun Yat-sen University**, B.S. in Aeronautical and Astronautical Engineering (2018 – 2022)  
 #### Research Interests  
-XX, XX, XX, XX.
+Reinforcement Learning, Robotic Control, and Swarm Confrontation
