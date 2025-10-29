@@ -24,7 +24,7 @@
 
 .top-section h2 {
     font-weight: 400;
-    font-size: 5rem; /* <--- 在这里添加您想要的字体大小 */
+    font-size: 5rem !important; /* <--- 在这里添加您想要的字体大小 */
 }
 
 .top-section .top-section-content {
